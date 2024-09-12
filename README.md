@@ -1,2 +1,4 @@
-# Developing-Front-End-Apps-with-React
-This React app features a component-based structure, real-time state management, and seamless navigation with react-router. It integrates APIs for live data, supports responsive design, and includes error handling for a fast, scalable, and reliable user experience.
+# IBM-Developing-Front-End-Apps-With-React
+Final project of the course.
+<a href="https://www.coursera.org/account/accomplishments/certificate/D58P4FW2JMTR" ><strong>Show credential </strong></a>
+
